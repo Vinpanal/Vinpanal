@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vinpanal indita
 - 👀 I’m interested in website developer and website designer
-- 🌱 I’m currently learning in php,javascripot and sql
+- 🌱 I’m currently learning in php,javascripot,html,css and database
 - 💞️ I’m looking to collaborate on who have a passionate to become a website developer like me
 - 📫 How to reach me ...
 
